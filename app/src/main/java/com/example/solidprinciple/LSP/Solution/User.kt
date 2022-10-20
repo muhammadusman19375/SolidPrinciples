@@ -1,8 +1,8 @@
-package com.example.solidprinciple.LSP
+package com.example.solidprinciple.LSP.Solution
 
 import android.util.Log
 
-class User: iCreate,iDelete {
+class User: iCreate, iDelete {
 
     //    override fun createAccount() {
 //        Log.d("TAG", "createAccount: "+"User account is creating")

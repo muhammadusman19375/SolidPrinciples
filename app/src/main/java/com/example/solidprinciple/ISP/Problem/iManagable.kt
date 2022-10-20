@@ -1,4 +1,4 @@
-package com.example.solidprinciple.ISP
+package com.example.solidprinciple.ISP.Problem
 
 interface iManagable {
     fun prepareSms()

@@ -1,4 +1,4 @@
-package com.example.solidprinciple.ISP
+package com.example.solidprinciple.ISP.Solution
 
 import android.util.Log
 

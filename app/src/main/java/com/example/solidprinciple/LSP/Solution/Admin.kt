@@ -1,8 +1,8 @@
-package com.example.solidprinciple.LSP
+package com.example.solidprinciple.LSP.Solution
 
 import android.util.Log
 
-class Admin: iCreate{
+class Admin: iCreate {
     //    override fun createAccount() {
 //        Log.d("TAG", "createAccount: "+"admin account is creating")
 //    }

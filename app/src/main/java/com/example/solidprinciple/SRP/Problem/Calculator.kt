@@ -1,4 +1,4 @@
-package com.example.solidprinciple.SRP
+package com.example.solidprinciple.SRP.Problem
 
 import android.util.Log
 

@@ -1,4 +1,4 @@
-package com.example.solidprinciple.LSP
+package com.example.solidprinciple.LSP.Problem
 
 interface iManagable {
     fun createAccount()

@@ -1,4 +1,4 @@
-package com.example.solidprinciple.OCP
+package com.example.solidprinciple.OCP.Solution
 
 import android.util.Log
 
